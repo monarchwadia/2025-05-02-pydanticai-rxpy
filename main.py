@@ -3,7 +3,6 @@ from reactivex import operators as ops
 
 def main():
     source = rx.of(
-        # don't tell me how to live my life
         "don't",
         "tell",
         "me",
